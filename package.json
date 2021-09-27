@@ -1,0 +1,22 @@
+{
+  "name": "a02-sam22unc",
+  "version": "1.0.0",
+  "description": "A webpage to test Bulma.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-sam22unc.git"
+  },
+  "author": "Samantha H. Anthony",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-sam22unc/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-sam22unc#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
